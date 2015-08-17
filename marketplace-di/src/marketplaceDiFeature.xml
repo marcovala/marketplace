@@ -39,8 +39,7 @@
     <bundle>pentaho-webjars:mvn:org.webjars/underscorejs/1.7.0</bundle>
     <!-- END -->
 
-
-    <bundle>mvn:org.pentaho/pentaho-marketplace-di/6.0-SNAPSHOT/</bundle>
+    <bundle>mvn:org.pentaho/pentaho-marketplace-di/6.0-SNAPSHOT</bundle>
   </feature>
 
 </features>
